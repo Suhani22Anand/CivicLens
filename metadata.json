@@ -1,0 +1,6 @@
+{
+  "name": "CivicLens",
+  "description": "See it. Post it. Solve it. A citizen-powered civic issue reporting and resolution platform.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
